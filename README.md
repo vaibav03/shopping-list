@@ -46,5 +46,9 @@ The client is the front-end framework built using **react.js** and **socket.io-c
       <img src="https://github.com/shreyventure.png" width="100px;" alt="Shreyas Shrawage"/>
       <br /><sub><b>Shreyas Shrawage</b></sub></a><br />
     </td>
+    <td align="center"><a href="https://github.com/vaibav03">
+      <img src="https://github.com/vaibav03.png" width="100px;" alt="Shreyas Shrawage"/>
+      <br /><sub><b>Vaibav V</b></sub></a><br />
+    </td>
   <tr>
 <table>
